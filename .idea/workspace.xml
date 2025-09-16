@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="648f444b-12cc-449c-9b91-fd13771878a0" name="Changes" comment="" />
+    <list default="true" id="648f444b-12cc-449c-9b91-fd13771878a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab2-branching-and-merging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab2-branching-and-merging.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
